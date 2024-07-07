@@ -1,0 +1,64 @@
+html, body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50pt;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14pt;
+}
+
+#profile-picture {
+    width: 70%;
+    max-width: 398px;
+    object-fit: contain
+}
+
+#header-div-left {
+    width: 50%;
+}
+
+#header-div-right {
+    width: 50%;
+}
+
+#top-spacer {
+    height: 1px;
+    /* background-color: red; */
+}
+
+#about-content-div {
+    width: 40%;
+}
+
+.black-background {
+    color: white;
+    background-color: black;
+}
+
+.section-div {
+    padding: 0 10%;
+}
+
+.section-container {
+    display: flex;
+}
+
+.section-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50pt;
+}
